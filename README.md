@@ -317,9 +317,9 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## Output:
-![Output](?raw=true)
-![Output](?raw=true)
-![Output](?raw=true)
+![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/zoom.png?raw=true)
+![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/clockwise.png?raw=true)
+![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/fade.png?raw=true)
 
 
 
