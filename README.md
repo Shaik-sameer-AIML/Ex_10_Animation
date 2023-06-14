@@ -318,8 +318,8 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## Output:
-![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/zoom.png?raw=true)
-![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/clockwise.png?raw=true)
+![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/clock%20wise.png?raw=true)
+![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/)
 ![Output](https://github.com/Shaik-sameer-AIML/Ex_10_Animation/blob/main/fade.png?raw=true)
 
 
